@@ -1,0 +1,1193 @@
+<!--THIS IS THE MAIN HTML CODE AND BELOW I HAVE ATTACHED THE FROM 429TH LINE CSS CODE TOO .I HAVE ATTACHED BOTH HERE-->
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" href="styl.css">
+</head>
+<body>
+
+
+
+<div class="main" id="HOME">
+<div class="container">
+  <div class="navbar">
+    <h1>TRIPUPP HR</h1>
+      <nav>
+       <ul>
+           <li><a href="#HOME">HOME</a></li>
+           <li><a href="#PAYROLL">PAYROLL</a></li>
+           <li><a href="#BENEFITS">BENEFITS</a></li>  
+           <li><a href="#PRICING">PRICING</a></li>
+           <li><a href="#WORK WITH US">WORK WITH US</a> </li>
+       </ul>
+    </nav>
+   <a href="" class="cart"><button>SIGN IN></button></a>
+  </div>
+
+  
+  <form action="/action_page.php">
+  <div class="content">
+      <a href="" class="free"><button>Try Free For Now!  ></button></a>
+<h2>Set Your Business up<br> with Modern Payroll,<br>Benefits and HR</h2>
+  
+ 
+
+       
+           <div class="search">
+                <form action="#" style="float:left;">
+                    <input type="text"
+                         placeholder=" @ Your email address"
+                            name="search">
+                </form><a href="" class="start"><button>Get Started</button></a>
+          </div>
+          
+         <div class="para">
+              
+             <p>our plans were built to fit your unique needs.streamline<br>onboarding
+              benefits,payroll,PTO and more with our<br>
+              simple,intutive and unique platform.</p>
+         </div>
+   </div>
+        <div class="foot">
+                 <p3>&#9989;14 days Free Demo</p3>  
+                 <p4>&#9989;No Credit Card Needed </p4>
+                   <p5>&#9989;No Setup</p5>
+         </div> 
+</div>
+<div class="ant">
+ <h>Job Details</h><hr>
+<form action="/action_page.php">
+    
+    
+    <div class="row">
+      <div class="col-25">
+        <label for="country">Job Title</label>
+      </div>
+      <div class="col-75">
+        <select id="country" name="country">
+          <option value="Class Instructor">Class Instructor</option>
+          <option value="Teacher">Teacher</option>
+          <option value="Speaker">Speaker</option>
+        </select>
+      </div>
+    </div>
+<div class="row">
+      <div class="col-25">
+        <label for="subject">Classification</label>
+      </div>
+      <div class="col-75">
+        <select id="subject" name="subject">
+          <option value="Fitness Traing">Fitness Traing</option>
+          <option value="Education">Education</option>
+          <option value="Public Works">Public Works</option>
+        </select>
+      </div>
+    </div>
+<div class="row">
+      <div class="col-25">
+        <label for="country">Work Location</label>
+      </div>
+      <div class="col-75">
+        <select id="country" name="country">
+          <option value="Los Angeles">Los Angeles</option>
+          <option value="Texas">Texas</option>
+          <option value="California">California</option>
+        </select>
+      </div>
+    </div>
+<div class="row">
+      <div class="col-25">
+        <label for="subject">Classification</label>
+      </div>
+      <div class="col-75">
+        <select id="subject" name="subject">
+          <option value="Independent Contractor">Independent Contractor</option>
+          <option value="Contractor">Contractor</option>
+          <option value="Dependent Contractor">Dependent Contractor</option>
+        </select>
+      </div>
+    </div>
+<div class="row">
+      <div class="col-25">
+        <label for="fname">Hire Date</label>
+      </div>
+      <div class="col-75">
+        <input type="text" id="fname" name="firstname" placeholder="01/08/2020">
+      </div>
+    </div>
+    
+    </div>
+    
+  </form>
+</div>
+</div>        
+  
+  
+
+<div class="main" id="PAYROLL">
+  
+
+     <div class="HR">
+         <h4>&#128101;HR  manage your people with ease</h4>
+     </div>
+     <div class="hont">
+      <h25>Add a Candidate</h25>
+        <p>
+<div class="hont1">
+      <h25>Dear Jillian Wilde,</h25>
+        <p>
+           </p>
+   </div>
+           </p>
+   </div>
+<div class="ant1">
+ <h>Job Details</h><hr>
+<form action="/action_page.php">
+    
+    
+    <div class="row">
+      <div class="col-25">
+        <label for="country">Job Title</label>
+      </div>
+      <div class="col-75">
+        <select id="country" name="country">
+          <option value="Class Instructor">Class Instructor</option>
+          <option value="Teacher">Teacher</option>
+          <option value="Speaker">Speaker</option>
+        </select>
+      </div>
+    </div>
+<div class="row">
+      <div class="col-25">
+        <label for="subject">Classification</label>
+      </div>
+      <div class="col-75">
+        <select id="subject" name="subject">
+          <option value="Fitness Traing">Fitness Traing</option>
+          <option value="Education">Education</option>
+          <option value="Public Works">Public Works</option>
+        </select>
+      </div>
+    </div>
+<div class="row">
+      <div class="col-25">
+        <label for="country">Work Location</label>
+      </div>
+      <div class="col-75">
+        <select id="country" name="country">
+          <option value="Los Angeles">Los Angeles</option>
+          <option value="Texas">Texas</option>
+          <option value="California">California</option>
+        </select>
+      </div>
+    </div>
+<div class="row">
+      <div class="col-25">
+        <label for="subject">Classification</label>
+      </div>
+      <div class="col-75">
+        <select id="subject" name="subject">
+          <option value="Independent Contractor">Independent Contractor</option>
+          <option value="Contractor">Contractor</option>
+          <option value="Dependent Contractor">Dependent Contractor</option>
+        </select>
+      </div>
+    </div>
+<div class="row">
+      <div class="col-25">
+        <label for="fname">Hire Date</label>
+      </div>
+      <div class="col-75">
+        <input type="text" id="fname" name="firstname" placeholder="01/08/2020">
+      </div>
+    </div>
+    
+    </div>
+    
+  </form>
+</div>
+    <div class="pay">
+        <p> &#127906;PAYROLL payroll that's easy to use and seriously smart.</p>
+    </div>
+<div class="add">
+    <pre><b>   
+                  &#128178;
+           Unlimited Payrolls 
+       Clear pricing,No Surprises.
+    <b></pre>
+  </div>
+<div class="add1">
+    <pre><b>   
+                     &#129351;
+             Automatically  files
+              your Payroll taxes
+    <b></pre>
+  </div>
+<div class="add2">
+    <pre><b>   
+                    &#128140;
+           Everything you need
+           Synced with Payroll
+    <b></pre>
+  </div>
+<div class="add3">
+    <pre><b>   
+                     &#128197;
+            Compliance,accuracy and
+                peace of mind
+
+    <b></pre>
+  </div>
+</div>
+<div class="main" id="BENEFITS">
+
+    
+  <div class="ben">
+   <h5>BENEFITS finally employee benefits for every business</h5>
+  </div>
+
+   <div class="bont">
+     
+      <h29>Benefits</h29>
+        <p>Select a medical plan<br>thats best for you and<br>your family</p>
+     
+    <div class="bont1">
+ 
+      <h30>Blue Cross<br>PRO Direct HSA 3K</h30>
+        <p>&#128178;393
+           </p>
+    
+           
+    </div>
+<div class="dont">
+   <h36>Tripupp</h36>
+   <h37>BENEFITS CARD</h37>
+   <p><div class="dont1">
+           <h38>1234</h38>
+           <h39>5678</h39>
+<h40>9000</h40>
+<h41>0000</h41>
+<p>MICHAEL WILLIAMS</p>
+       </div>
+      </p>
+</div>
+</div>
+
+<div class="kont">
+     
+      <h30>Benefits</h30>
+        <p>Here's the Summary of the plans Selected </p>
+     <div class="kont1">
+ 
+      <h31>Medical   393.33</h31>
+        <p>
+           </p>
+    </div>
+    <div class="kont2">
+ 
+      <h32>Medical   393.33</h32>
+        <p>
+           </p>
+    </div>
+<div class="kont3">
+ 
+      <h33>Medical   393.33</h33>
+        <p>
+           </p>
+    </div>
+    </div>
+</div>
+<div class="main" id="PRICING">
+  <div class="why">
+       <h6>Why Us&#10068;<h6>
+  </div>
+   <div class="cont1">
+      <h11>Hire and retain top talent</h11>
+        <p>we make onboarding new employees ridiculously easy.
+           on dayone,they're ready to go.And retaining them is easier,too,
+           with advanced HR tools like compensation reporting. 
+           </p>
+   </div>
+    <div class="cont2">
+      <h12>Stay Compliant</h12>
+        <p>Keeping a business compliant is made easier with
+           Zenefits.We automate many of the compliance tasks
+           and goverment fillings for you. 
+           </p>
+   </div>
+   <div class="cont3">
+      <h13>Improve Productivity</h13>
+        <p>Many of our features like self onboarding selecting
+           benefits, and signing documents happen completely online,
+           which means your employees will spend more the focussed on their core functions.
+           </p>
+   </div>
+   <div class="cont4">
+      <h14>Hire and retain top talent</h14>
+        <p>we make onboarding new employees ridiculously easy.
+           on dayone,they're ready to go.And retaining them is easier,too,
+           with advanced HR tools like compensation reporting. 
+           </p>
+ 
+   </div>
+<div class="set">
+   <div class="box">
+      
+      <h15 >We're Here To <br>Help You <br>Ask Us Anything<br>Or Schedule A Demo Call</h15>
+       
+   </div>
+<div class="box1">
+      <a href="" ><button>Talk to Advisor</button></a>
+</div> 
+  </div>
+</div>
+<div class="main" id="WORK WITH US">
+
+
+<div class="team">
+    <h18>     Get Your Team <br>Working With<br>     Us  !</h18>
+</div>
+<div class="a">
+    <a href="" class="get"><button>Get Started</button></a>
+</div>
+<div class="pont">
+      <h19>All in One Platform</h19>
+        <p><ul>
+<li>Payroll</li>
+<li>Employees Benefits</li>
+<li>Health Insurance</li>
+<li>Financial Benefits</li>
+<li>Hiring and Onboarding</li>
+<li>Expert HR</li>
+<li>Time tracking tools</li>
+<li>Workers comp</li>
+<li>Integrations</li>
+<li>Gusto Wallet</li>
+<li>Gusto Partner Offers</li>
+ </ul>
+           </p>
+   </div>
+    <div class="pont2">
+      <h20>Tools</h20>
+        <p> <ul>
+             <li>Small Business Financial Relief</li>
+             <li>Employee Tax Calculator</li>
+             <li>Burn rate Calculator</li>
+             <li>Salary Comparison Tool </li>
+             <li>New Hire Checklist</li>
+             <li>Small Business Guides</li>
+          </ul>         
+    </p><div class="soc">
+    <h>Social<h>
+    </div>
+
+    <div class="logo">
+    <img src="fb10.png">
+    </div>
+<div class="logo1">
+    <img src="insta2.jpg">
+    </div>
+    
+<div class="cont">
+      <h>Contact</h></div>
+<div class="phn1">
+      <h>0012576469</h></div>
+           
+   </div>
+<div class="pont3">
+      <h21>About Grade</h21>
+        <p><ul>
+             <li>About</li>
+             <li>Careers-We're hiring !</li>
+             <li>Press</li>
+             <li>Contact</li>
+             <li>Investors</li>
+             <li>Affliate Program</li>
+          </ul>         
+           </p>
+   </div>
+  </div>
+</div>
+</body>
+</html>
+
+
+
+
+
+<!--CSS FILE NAMED styl.css-->
+
+
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+#HOME {
+height: 800px ;
+background-color: #a4508b;
+background-image: linear-gradient(350deg,#ffffff 44%,#BA52BF 0%);
+}
+.navbar
+{
+     width=100%;
+     height=15vh;
+   margin:auto;
+   display:flex;
+   align-items:center;
+}
+.cart
+{
+    width:160px;
+    cursor:pointer;
+}
+.cart  button{
+width:100px;
+    background-color: rgba(255,255,255,0);
+border-radius:12px;
+}
+nav{
+     flex:1;
+     padding-left:60px;
+}
+nav ul li{
+    display:inline-block;
+    list-style:none;
+    margin:0px 20px;
+    text-decoration:none;
+}
+nav ul li a{
+
+     text-decoration:none;
+     color:white;
+}
+
+.free{
+    
+    width:160px;
+    cursor:pointer;
+    margin-left:40px;
+        
+}
+.free  button{
+border-radius:12px;
+width:160px;
+    background-color: rgba(255,255,255,0);
+}
+.content h2{
+    
+    font-size:70px;
+    font-weight:100;
+    margin-top:35px;
+    margin-bottom:15px;
+    font-colour:white;
+font-family: Helvetica, sans-serif;
+
+}
+.content p{
+    font-size:20px;
+    margin-top:80px;
+    
+    font-colour:white;
+}
+.content{
+   margin-left:6%;
+   margin-top:6%;
+}
+
+
+.start{
+
+width:200px;
+    cursor:pointer;
+   margin-left:10px;
+margin-top:45px;
+margin:bottom:10px;
+}
+.start button{
+color:white;
+background-color:blue;
+        
+}
+
+.para p{
+    margin-top:40px;
+    margin-left:30px;
+}
+.foot{
+margin-top:120px;
+font-size:30px;
+}
+.foot p3{
+  margin-left:60px;
+}
+.foot p4{
+  margin-left:270px;
+}
+.foot p5{
+  margin-left:300px;
+}
+.search{
+
+    
+    font-size:15px;
+margin-left:50px;
+
+}
+.ant{
+margin-top:-610px;
+ margin-left:840px;
+border-radius: 5px;
+  background-color: #ffffff;
+  padding: 20px;
+width:560px;
+height:400px;
+}
+
+.ant h{
+   font-size:30px;
+}
+.ant label {
+font-size:15px;
+font-color:grey;
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+.ant row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.ant input[type=text], select, textarea {
+font-size:15px;
+background:#C2DFFF;
+  width: 100%;
+  padding: 4px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+.ant label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .col-25, .col-75, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
+
+
+
+.ant input[type=submit]:hover {
+  background-color: #45a049;
+}
+.ant col-25 {
+  float: left;
+  width: 25%;
+  margin-top: 6px;
+}
+
+.ant col-75 {
+  float: left;
+  width: 75%;
+  margin-top: 6px;
+}
+
+
+
+#PAYROLL{
+  height: 950px;
+ background-color:#BA52BF;
+background-image: linear-gradient(360deg,#ffffff 16%,#CCFFFF 84%);
+
+
+  
+}
+.HR h4{
+font-size:40px;
+    font-weight:100;
+    margin-top:45px;
+    
+ margin-left:90px;
+    colour:white;
+}
+.hont{
+    border-radius:8px;
+    background-color: white;
+  width: 550px;
+  height:540px;
+  padding: 20px;
+  margin-left: 80px;
+
+}
+.hont h25{
+font-size:35px;
+font-weight:100;
+  margin-top: -10px;
+}
+.hont p{
+font-size:22px;
+  margin-top: 5px;
+}
+.hont1{
+    border-radius:8px;
+    background-color:#F9F8F6;
+  width: 480px;
+  height:340px;
+  padding: 10px;
+  margin-left: 20px;
+margin-top: 120px;
+}
+.hont1 h25{
+font-size:35px;
+font-weight:100;
+  margin-top: 50px;
+}
+.hont1 p{
+font-size:22px;
+  margin-top: 5px;
+}
+.ant1{
+margin-top:-570px;
+ margin-left:820px;
+border-radius: 5px;
+  background-color:#F9F8F6 ;
+  padding: 10px;
+width:460px;
+height:400px;
+}
+
+.ant1 h{
+   font-size:30px;
+}
+.ant label {
+font-size:15px;
+font-color:grey;
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+.ant1 row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.ant1 input[type=text], select, textarea {
+font-size:15px;
+background:#C2DFFF;
+  width: 100%;
+  padding: 4px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+.ant1 label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .col-25, .col-75, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
+
+
+
+.ant1 input[type=submit]:hover {
+  background-color: #45a049;
+}
+.ant1 col-25 {
+  float: left;
+  width: 25%;
+  margin-top: 6px;
+}
+
+.ant1 col-75 {
+  float: left;
+  width: 75%;
+  margin-top: 6px;
+}
+
+
+.pay p{
+font-size:40px;
+    font-weight:100;
+    margin-top:-100px;
+
+    
+ margin-left:90px;
+    colour:white;
+}
+.add{
+    margin-top:20px;
+    margin-left:20px;
+}
+.add pre{
+font-weight:40px;
+    font-size:20px;
+    font-familysans-serif;
+}
+.add1{
+    margin-top:-145px;
+    margin-left:320px;
+}
+.add1 pre{
+font-weight:40px;
+    font-size:20px;
+    font-familysans-serif;
+}
+.add2{
+    margin-top:-145px;
+    margin-left:680px;
+}
+.add2 pre{
+font-weight:40px;
+    font-size:20px;
+    font-familysans-serif;
+}
+.add3{
+    margin-top:-145px;
+    margin-left:980px;
+}
+.add3 pre{
+font-weight:40px;
+    font-size:20px;
+    font-familysans-serif;
+}
+#BENEFITS{
+  height: 900px;
+background-color: #191970;
+
+background-image: linear-gradient(to right bottom, #ffffff, #191970, #ffffff );
+
+  
+}
+
+.ben{
+font-size:40px;
+    font-weight:100;
+    margin-top:505px;
+    margin-bottom:15px;
+ margin-left:150px;
+    colour:white;
+
+}
+.bont{
+    border-radius:8px;
+    background-color: white;
+  width: 400px;
+  height:640px;
+  padding: 20px;
+  margin-left: 80px;
+
+}
+.bont h29{
+font-size:55px;
+font-weight:100;
+  margin-top: -10px;
+  margin:left:10px;  
+}
+.bont p{
+font-size:30px;
+  margin-top: 5px;
+}
+
+.bont1{
+    border-radius:8px;
+    background-color:#FFF0CA;
+  width: 380px;
+  height:340px;
+  padding: 10px;
+  margin-left: 7px;
+margin-top: 120px;
+}
+.bont1 h30{
+font-size:35px;
+font-weight:100;
+  margin-top: 50px;
+}
+.bont1 p{
+font-size:52px;
+  margin-top: 175px;
+}
+.dont{
+background-color: #f39f86;
+background-image: linear-gradient(to right bottom, #ffffff,#f39f86 ,#f9d976  );
+
+
+border-radius:8px;
+ 
+  width: 400px;
+  height:160px;
+  padding: 20px;
+  margin-left:620px;
+margin-top:-150px;
+}
+.dont h36{
+    font-size:30px;
+font-weight:100;
+  margin-top:-10px;
+}
+.dont h37{
+    font-size:20px;
+font-weight:100;
+  margin-top:-10px;
+margin-left:100px;
+
+}
+.dont1 h38{
+    font-size:30px;
+font-weight:100;
+  margin-top:10px;
+margin-left:10px;
+}
+.dont1 h39{
+    font-size:30px;
+font-weight:100;
+  margin-top:10px;
+margin-left:25px;
+
+}
+.dont1 h40{
+    font-size:30px;
+ font-weight:100;
+  margin-top:10px;
+margin-left:30px;
+}
+.dont1 h41{
+    font-size:30px;
+font-weight:100;
+  margin-top:10px;
+margin-left:35px;
+
+}
+.dont1 p{
+   font-size:20px;
+font-weight:100;
+  margin-top:50px;
+margin-left:30px;
+}
+
+.kont{
+    border-radius:8px;
+    background-color: white;
+  width: 800px;
+  height:340px;
+  padding: 40px;
+  margin-left:550px;
+margin-top:-700px;
+}
+
+    
+.kont h30{
+font-size:30px;
+font-weight:100;
+  margin-top: 1px;
+}
+.kont p{
+font-size:25px;
+  margin-top: 5px;
+}
+.kont1{
+    border-radius:8px;
+    background-color:#F9F8F6;
+  width: 150px;
+  height:170px;
+  padding: 40px;
+  margin-left: 20px;
+ margin-top:0px;
+}
+.kont1 h31{
+font-size:23px;
+font-weight:100;
+  margin-top: 1px;
+}
+.kont1 p{
+font-size:22px;
+  margin-top: 5px;
+}
+.kont2{
+    border-radius:4px;
+    background-color:#F9F8F6;
+  width: 150px;
+  height:100px;
+  padding: 40px;
+  margin-left: 290px;
+ margin-top:-180px;
+}
+.kont2 h32{
+font-size:23px;
+font-weight:100;
+  margin-top: 1px;
+}
+.kont2 p{
+font-size:22px;
+  margin-top: 5px;
+}
+.kont3{
+    border-radius:8px;
+    background-color:#F9F8F6;
+  width: 150px;
+  height:170px;
+  padding: 40px;
+  margin-left: 600px;
+ margin-top:-240px;
+}
+.kont3 h33{
+font-size:23px;
+font-weight:100;
+  margin-top: 1px;
+}
+.kont3 p{
+font-size:22px;
+  margin-top: 5px;
+}
+
+
+#PRICING {
+  height: 900px;
+  background-color:#BA52BF;
+
+background-image: linear-gradient(360deg,#ffffff 16%,#CCFFFF 84%);
+}
+.why h6{
+font-size:40px;
+    font-weight:100;
+    margin-top:35px;
+    margin-bottom:15px;
+ margin-left:60px;
+    colour:white;
+}
+.cont1{
+    border-radius:8px;
+    background-color: white;
+  width: 150px;
+  height:390px;
+  padding: 40px;
+  margin-left: 80px;
+
+}
+.cont1 h11{
+font-size:30px;
+font-weight:100;
+  margin-top: 1px;
+}
+.cont1 p{
+font-size:22px;
+  margin-top: 5px;
+}
+.cont2{
+    border-radius:8px;
+    background-color: white;
+  width: 150px;
+  height:370px;
+  padding: 40px;
+  margin-left: 420px;
+ margin-top:-440px;
+}
+.cont2 h12{
+font-size:30px;
+font-weight:100;
+  margin-top: 1px;
+}
+.cont2 p{
+font-size:22px;
+  margin-top: 5px;
+}
+.cont3{
+    border-radius:4px;
+    background-color: white;
+  width: 150px;
+  height:430px;
+  padding: 40px;
+  margin-left: 760px;
+ margin-top:-540px;
+}
+.cont3 h13{
+font-size:30px;
+font-weight:100;
+  margin-top: 1px;
+}
+.cont3 p{
+font-size:22px;
+  margin-top: 5px;
+}
+.cont4{
+    border-radius:8px;
+    background-color: white;
+  width: 150px;
+  height:390px;
+  padding: 40px;
+  margin-left: 1090px;
+ margin-top:-440px;
+}
+.cont4 h14{
+font-size:30px;
+font-weight:100;
+  margin-top: 1px;
+}
+.cont4 p{
+font-size:22px;
+  margin-top: 5px;
+}
+.set{
+    margin-top:6%;
+    margin-left:6%;
+}
+.box{
+   margin-left:125px;
+   margin-top:100px;
+}
+.box h15{
+    font-size:40px;
+    font-weight:100;
+    margin-top:20px;
+    margin-bottom:15px;
+    colour:white;
+}
+.box1{
+width:100px;
+
+margin-top:-120px;
+
+    cursor:pointer;
+   margin-left:800px;
+}
+
+.box1 button{
+margin-top:-300px;
+border-radius:40px;
+font-size:20px;
+width:220px;
+height:70px;
+color:white;
+background-color:#B048B5;
+        
+}
+
+#WORK WITH US {
+  height: 600px;
+  background-color: #a4508b;
+background-image: linear-gradient(350deg,#ffffff 0%,#BA52BF 44%);
+}
+.team{
+   margin-left:40%;
+   margin-top:6%;
+}
+.team h18{
+    font-size:40px;
+    font-weight:100;
+    margin-top:20px;
+    margin-bottom:15px;
+    colour:white;
+}
+.a{
+   margin-left:40%;
+   margin-top:6%;
+}
+.get{
+
+
+    cursor:pointer;
+   margin-left:10px;
+margin-top:95px;
+
+}
+.get button{
+border-radius:40px;
+font-size:20px;
+width:220px;
+height:40px;
+color:white;
+background-color:#B048B5;
+        
+}
+.pont{
+    border-radius:8px;
+    background-color: white;
+  width: 250px;
+  height:390px;
+  padding: 40px;
+  margin-left: 210px;
+
+}
+.pont h19{
+font-size:30px;
+font-weight:100;
+  margin-top: 1px;
+}
+.pont p{
+font-size:22px;
+  margin-top: 5px;
+}
+.pont2{
+    border-radius:8px;
+    background-color: white;
+  width: 260px;
+  height:370px;
+  padding: 40px;
+  margin-left: 580px;
+ margin-top:-470px;
+}
+.pont2 h20{
+font-size:30px;
+font-weight:100;
+  margin-top: 1px;
+}
+.pont2 p{
+font-size:22px;
+  margin-top: 5px;
+}
+.soc{
+margin-top:-7px;
+ margin-left: 10px;
+}
+.logo{
+  
+margin-top:-17px;
+ margin-left: 80px;
+}
+.logo1{
+  
+margin-top:-26px;
+ margin-left: 180px;
+}
+.cont{
+    margin-top:10px;
+    margin-left: 5px;
+}
+.phn1{
+     margin-top:-15px;
+ margin-left: 79px;
+color:red;
+
+}
+.pont3{
+    border-radius:4px;
+    background-color: white;
+  width: 250px;
+  height:430px;
+  padding: 40px;
+  margin-left: 1020px;
+ margin-top:-460px;
+}
+.pont3 h21{
+font-size:30px;
+font-weight:100;
+  margin-top: 1px;
+}
+.pont3 p{
+font-size:22px;
+  margin-top: 5px;
+}
